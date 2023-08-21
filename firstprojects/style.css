@@ -1,0 +1,19 @@
+.harsh {
+    background-color: grey;
+    height: 100vhpx;
+    width: 800px;
+    border: solid;
+    
+
+}
+
+label{ 
+    background-color: lightsteelblue;
+    font-size: 20px;
+    
+}
+img{
+    background-color: brown;
+    padding-right: 100px;
+    margin: 100px;
+}

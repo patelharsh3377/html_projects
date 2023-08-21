@@ -1,0 +1,14 @@
+.harsh{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+h1{
+    text-align: center;
+    border: solid grey;
+    background-color: cadetblue ;
+    font-family: cursive;
+} 
+
